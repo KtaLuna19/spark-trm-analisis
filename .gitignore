@@ -1,0 +1,15 @@
+# Seguridad
+.ssh/
+.gitconfig
+
+# Big Data
+kafka_*
+spark-*
+hadoop_*
+
+# Archivos pesados
+*.tgz
+*.tar.gz
+
+# Logs
+*.log

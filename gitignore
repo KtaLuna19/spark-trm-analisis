@@ -1,0 +1,15 @@
+# Archivos grandes
+*.tgz
+*.tar.gz
+
+# Big Data tools
+kafka_*
+spark-*
+hadoop-*
+
+# Seguridad
+.ssh/
+.gitconfig
+
+# Otros
+*.log
